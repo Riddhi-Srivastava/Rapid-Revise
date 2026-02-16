@@ -72,6 +72,6 @@ To build a scalable tutoring ecosystem that improves accessibility, trust, and r
 ## Setup
 
 ```bash
-git clone <repo-link>
+git clone <https://github.com/Riddhi-Srivastava/Rapid-Revise>
 npm install
 npm start
