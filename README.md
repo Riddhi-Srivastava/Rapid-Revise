@@ -111,14 +111,26 @@ The architecture emphasizes modular backend services, scalable REST APIs, and lo
 - Node.js (16+)  
 - MongoDB (local or Atlas)  
 
-### 1. Clone Repository
+## Setup Instructions
 
+### 1. Clone the Repository
+
+```bash
 git clone <repo-link>
 cd rapid-revise
-2. Install Dependencies
+```
+
+### 2. Install Dependencies
+
+```bash
 npm install
-3. Run Application
+```
+
+### 3. Run the Application
+
+```bash
 npm start
+```
 
 ## Engineering Focus
 
