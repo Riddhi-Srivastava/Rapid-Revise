@@ -115,7 +115,7 @@ The architecture emphasizes modular backend services, scalable REST APIs, and lo
 
 ### 1. Clone the Repository
 
-    git clone <repo-link>
+    git clone <https://github.com/Riddhi-Srivastava/Rapid-Revise>
     cd rapid-revise
 
 ### 2. Install Dependencies
