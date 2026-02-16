@@ -115,22 +115,17 @@ The architecture emphasizes modular backend services, scalable REST APIs, and lo
 
 ### 1. Clone the Repository
 
-```bash
-git clone <repo-link>
-cd rapid-revise
-```
+    git clone <repo-link>
+    cd rapid-revise
 
 ### 2. Install Dependencies
 
-```bash
-npm install
-```
+    npm install
 
 ### 3. Run the Application
 
-```bash
-npm start
-```
+    npm start
+
 
 ## Engineering Focus
 
