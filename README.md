@@ -87,15 +87,16 @@ This project simulates a real-world on-demand education system similar to ride-h
 
 ---
 
-## System Architecture
+## Architecture
 
-Frontend (React)
-↓
-REST API Layer
-↓
-Node.js + Express Backend
-↓
+Frontend (React)  
+↓  
+REST API Layer  
+↓  
+Node.js + Express Backend  
+↓  
 MongoDB Database
+
 
 The architecture emphasizes modular backend services, scalable REST APIs, and low-latency real-time communication.
 
