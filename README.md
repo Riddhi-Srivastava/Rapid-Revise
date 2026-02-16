@@ -110,7 +110,6 @@ The architecture emphasizes modular backend services, scalable REST APIs, and lo
 
 ### 1. Clone Repository
 
-```bash
 git clone <repo-link>
 cd rapid-revise
 2. Install Dependencies
